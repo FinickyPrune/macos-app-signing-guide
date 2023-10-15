@@ -72,7 +72,7 @@ If you need to share multiple files, you probably will use disk image for this. 
 
 You can read full `codesign` usage typing
 
-        man codesign
+    man codesign
 
 in your terminal.
 
