@@ -2,7 +2,7 @@
 
 Hello young macOS developers! 
 
-Have you finished coding your shin MacOS app? And know want to wrap it into .pkg (or .dmg) and destribute it not usnig App Store? If the answer is 'yes' this guide is for you.
+Have you finished coding your shiny MacOS app? And now want to wrap it into .pkg (or .dmg) and destribute it NOT usnig App Store? If the answer is 'yes' this guide is for you.
 
 So, if you're ready, lauch Xcode with your app and follow these 4 simple steps!
 
